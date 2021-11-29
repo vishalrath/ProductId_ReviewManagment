@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.exe
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.deps.json
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.runtimeconfig.json
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.dll
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ref\ProductReviewManagment.dll
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\bin\Debug\net5.0\ProductReviewManagment.pdb
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.dll
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ref\ProductReviewManagment.dll
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.pdb
+C:\Users\Vishal\source\repos\ProductReviewManagment\ProductReviewManagment\obj\Debug\net5.0\ProductReviewManagment.genruntimeconfig.cache

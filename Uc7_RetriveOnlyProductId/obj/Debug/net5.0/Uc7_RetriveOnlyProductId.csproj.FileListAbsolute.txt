@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.exe
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.deps.json
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.dll
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\ref\Uc7_RetriveOnlyProductId.dll
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\bin\Debug\net5.0\Uc7_RetriveOnlyProductId.pdb
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.dll
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\ref\Uc7_RetriveOnlyProductId.dll
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.pdb
+C:\Users\Vishal\source\repos\Uc7_RetriveOnlyProductId\Uc7_RetriveOnlyProductId\obj\Debug\net5.0\Uc7_RetriveOnlyProductId.genruntimeconfig.cache

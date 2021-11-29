@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc11RetriveAllRecordWhoGiveGod/1.0.0": {
+        "runtime": {
+          "Uc11RetriveAllRecordWhoGiveGod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc11RetriveAllRecordWhoGiveGod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

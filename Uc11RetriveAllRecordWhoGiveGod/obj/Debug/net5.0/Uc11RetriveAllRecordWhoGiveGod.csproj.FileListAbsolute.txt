@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.exe
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.deps.json
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.dll
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\ref\Uc11RetriveAllRecordWhoGiveGod.dll
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\bin\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.pdb
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.dll
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\ref\Uc11RetriveAllRecordWhoGiveGod.dll
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.pdb
+C:\Users\Vishal\source\repos\Uc11RetriveAllRecordWhoGiveGod\Uc11RetriveAllRecordWhoGiveGod\obj\Debug\net5.0\Uc11RetriveAllRecordWhoGiveGod.genruntimeconfig.cache

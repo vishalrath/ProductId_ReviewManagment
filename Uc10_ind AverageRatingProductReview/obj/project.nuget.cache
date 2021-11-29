@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S56oFAqHeaCyhLlZVFmu9ny0DvFyqJX6r1VD4KYfeuWyb6zMzEnT/4bd9CU9SdFwK90tnr6EGNl7I/VdsSnAvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vishal\\source\\repos\\Uc10_ind AverageRatingProductReview\\Uc10_ind AverageRatingProductReview\\Uc10_ind AverageRatingProductReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

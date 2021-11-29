@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc10_ind AverageRatingProductReview/1.0.0": {
+        "runtime": {
+          "Uc10_ind AverageRatingProductReview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc10_ind AverageRatingProductReview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

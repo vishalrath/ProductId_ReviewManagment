@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc3_Retrive_all_Record", "Uc3_Retrive_all_Record\Uc3_Retrive_all_Record.csproj", "{E6A2DA73-FDBE-4DCA-A7C9-1BBA79A29750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A2DA73-FDBE-4DCA-A7C9-1BBA79A29750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A2DA73-FDBE-4DCA-A7C9-1BBA79A29750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A2DA73-FDBE-4DCA-A7C9-1BBA79A29750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A2DA73-FDBE-4DCA-A7C9-1BBA79A29750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797C69D3-1AAB-4DDC-875E-460248900A95}
+	EndGlobalSection
+EndGlobal

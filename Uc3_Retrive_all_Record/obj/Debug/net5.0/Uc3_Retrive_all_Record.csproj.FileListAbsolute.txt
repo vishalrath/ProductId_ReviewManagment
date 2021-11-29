@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.exe
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.deps.json
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.dll
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\ref\Uc3_Retrive_all_Record.dll
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\bin\Debug\net5.0\Uc3_Retrive_all_Record.pdb
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.dll
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\ref\Uc3_Retrive_all_Record.dll
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.pdb
+C:\Users\Vishal\source\repos\Uc3_Retrive_all_Record\Uc3_Retrive_all_Record\obj\Debug\net5.0\Uc3_Retrive_all_Record.genruntimeconfig.cache

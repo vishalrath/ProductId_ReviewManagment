@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.exe
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.deps.json
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.dll
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\ref\Uc8_CreateTableAndAddRecord.dll
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\bin\Debug\net5.0\Uc8_CreateTableAndAddRecord.pdb
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.dll
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\ref\Uc8_CreateTableAndAddRecord.dll
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.pdb
+C:\Users\Vishal\source\repos\Uc8_CreateTableAndAddRecord\Uc8_CreateTableAndAddRecord\obj\Debug\net5.0\Uc8_CreateTableAndAddRecord.genruntimeconfig.cache

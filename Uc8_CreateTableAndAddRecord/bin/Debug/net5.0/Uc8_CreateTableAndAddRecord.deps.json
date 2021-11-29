@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc8_CreateTableAndAddRecord/1.0.0": {
+        "runtime": {
+          "Uc8_CreateTableAndAddRecord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc8_CreateTableAndAddRecord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

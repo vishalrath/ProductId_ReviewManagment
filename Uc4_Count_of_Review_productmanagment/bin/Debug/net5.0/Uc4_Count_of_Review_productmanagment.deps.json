@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc4_Count_of_Review_productmanagment/1.0.0": {
+        "runtime": {
+          "Uc4_Count_of_Review_productmanagment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc4_Count_of_Review_productmanagment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.exe
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.deps.json
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.runtimeconfig.json
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.dll
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\ref\UC5_RetriveProductId.dll
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\bin\Debug\net5.0\UC5_RetriveProductId.pdb
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.dll
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\ref\UC5_RetriveProductId.dll
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.pdb
+C:\Users\Vishal\source\repos\UC5_RetriveProductId\UC5_RetriveProductId\obj\Debug\net5.0\UC5_RetriveProductId.genruntimeconfig.cache

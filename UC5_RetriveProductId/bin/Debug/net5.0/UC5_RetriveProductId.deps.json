@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UC5_RetriveProductId/1.0.0": {
+        "runtime": {
+          "UC5_RetriveProductId.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC5_RetriveProductId/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
